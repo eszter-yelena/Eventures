@@ -117,7 +117,7 @@ There are two available methods for configuring and executing the project: throu
 
 
 ## User Guide
-![alt text](https://freeimage.host/i/JufN3Yb)
+![alt text](https://iili.io/JufN3Yb.png)
 
 
 ## Discord
