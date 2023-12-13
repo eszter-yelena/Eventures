@@ -17,17 +17,14 @@ The Eventures application project is a group project for the COSC345 university 
 > Eventures aims to combine [EventFinda](eventfinda.co.nz) event data along with [ArcGIS](https://www.arcgis.com/apps/mapviewer/index.html) geographical mapping services data to superimpose event data on a visual interface for a unique and valuable exploration and discovery application.
 
 ### Table of Contents
-- [User guide](#user-guide)
+
 - [Installation Guide](#installation-guide)
 - [Prerequisites](#prerequisites)
 - [Project Setup with QT](#project-setup-with-qt)
   - [Compiling](#compiling)
   - [Qt Runtime Dependencies (For deployment)](#copy-qt-runtime-dependencies-for-deployment)
   - [Running The Executable](#running-the-executable)
-- [Project Setup with Command line](#project-setup-with-command-line)
-  - [Compilation](#compilation)
-  - [Copy Qt Runtime Dependencies (For Deployment)](#copy-qt-runtime-dependencies-for-deployment)
-  - [Running The Executable](#running-the-executable)
+- [User guide](#user-guide)
 - [Discord](#discord)
 - [Artifact Generation](#artifact-generation)
 - [Target Audience](#target-audience)
@@ -117,6 +114,10 @@ There are two available methods for configuring and executing the project: throu
 ### **Running The Executable**
 - Ensure the project is open in Qt Creator (Ctrl + O and navigate to Eventures.pro)
 - Select: Build/Run (Ctrl + R)
+
+
+## User Guide
+![alt text](https://freeimage.host/i/JufN3Yb)
 
 
 ## Discord
