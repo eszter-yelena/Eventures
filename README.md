@@ -17,7 +17,6 @@ The Eventures application project is a group project for the COSC345 university 
 > Eventures aims to combine [EventFinda](eventfinda.co.nz) event data along with [ArcGIS](https://www.arcgis.com/apps/mapviewer/index.html) geographical mapping services data to superimpose event data on a visual interface for a unique and valuable exploration and discovery application.
 
  [<img src="https://iili.io/Juf88ps.png" width="500" height="400"/>](image.png) [<img src="https://iili.io/JufUTWx.png" width="500" height="400"/>](image.png)
- [<img src="https://iili.io/JufrOoG.png" width="480" height="400"/>](image.png) [<img src="https://iili.io/JufreVf.png" width="510" height="400"/>](image.png)
 
 ### Table of Contents
 
@@ -128,6 +127,7 @@ There are two available methods for configuring and executing the project: throu
 | [<img src="https://iili.io/JufNBjV.png" width="15"/>](image.png) | View previous page of events      | [<img src="https://iili.io/JufNCZB.png" width="15"/>](image.png) | View next page of events       |
 | [<img src="https://iili.io/JufNT3g.png" width="15"/>](image.png) | Zoom in to map view               | [<img src="https://iili.io/JufNz6F.png" width="15"/>](image.png) | Zoom out of map view           |
 
+ [<img src="https://iili.io/JufreVf.png" width="510" height="400"/>](image.png)
 ## Discord
 Join our Discord community to connect with other developers, ask questions, and get help with the project:
 [Join Eventures Discord](https://discord.gg/YpR748V89w)
