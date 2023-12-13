@@ -122,9 +122,9 @@ jobs:
         shell: cmd
         run: |
           "C:\Program Files\OpenCppCoverage\OpenCppCoverage.exe" --sources ${{ runner.temp }}\Eventures --excluded_sources ${{ runner.temp }}\Eventures\include --export_type cobertura:coverage.xml -- ${{ runner.temp }}\Eventures\backend_build\debug\BackendBuild.exe
-      - name: Upload Report to Codecov
-        uses: codecov/codecov-action@v2
-        with:
-          files: ./coverage.xml
-          fail_ci_if_error: true
-          functionalities: fix
+      # - name: Upload Report to Codecov
+      #   uses: codecov/codecov-action@v2
+      #   with:
+      #     files: ./coverage.xml
+      #     fail_ci_if_error: true
+      #     functionalities: fix
